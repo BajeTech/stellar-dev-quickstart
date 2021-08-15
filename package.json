@@ -1,0 +1,9 @@
+{
+  "name": "stellar-dev-quickstart",
+  "version": "1.0.0",
+  "description": "Quickstart samples for developing on the Stellar blockchain network.",
+  "main": "index.js",
+  "repository": "git@github.com:BajeTech/stellar-dev-quickstart.git",
+  "author": "Owan Hunte",
+  "license": "MIT"
+}
