@@ -4,6 +4,10 @@
   "description": "Quickstart samples for developing on the Stellar blockchain network.",
   "main": "index.js",
   "repository": "git@github.com:BajeTech/stellar-dev-quickstart.git",
-  "author": "Owan Hunte",
-  "license": "MIT"
+  "author": "Owan Hunte <ohunte@bajetech.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "stellar-sdk": "^8.2.5"
+  }
 }
