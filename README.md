@@ -1,3 +1,5 @@
 # Developer QuickStart Examples for the Stellar Blockchain
 
-This repo is for learning purposes and serves as a collection of the developer quickstart examples provided on [Stellar's](https://www.stellar.org) website and documentation site.
+This repo is for learning purposes and serves as a collection of quickstart examples for developers wanting to build DeFi solutions powered by the [Stellar](https://www.stellar.org) blockchain network.
+
+[Official Stellar Documentation Site](https://developers.stellar.org/docs)
